@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Help Line</string>
+    <string name="power_by_mamun_rex">Power by @mamun-rex</string>
+    <string name="helpLink">999</string>
+    <string name="helpline">Helpline :</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
